@@ -1,0 +1,8 @@
+.blocbtn {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 550px;
+  padding-right: 550px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
